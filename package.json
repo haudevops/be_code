@@ -1,0 +1,24 @@
+{
+  "name": "be_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haudevops/be_code.git"
+  },
+  "author": "Hau Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haudevops/be_code/issues"
+  },
+  "homepage": "https://github.com/haudevops/be_code#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
