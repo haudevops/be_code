@@ -1,0 +1,5 @@
+Package Module
+1. express => Dùng để gọi các phương thức GET, POST, PUT, DELETE
+2. morgan => Dùng để xuất log, hỗ trợ việc debug
+3. nodemon => Auto restart server khi save
+4. express-handlebars => hỗ trợ viết html
